@@ -1,0 +1,610 @@
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+reader 0 is reading data...
+read value: 1
+current readers: 5
+reader 4 is reading data...
+read value: 1
+current readers: 5
+reader 2 is reading data...
+read value: 1
+current readers: 5
+reader 4 is reading data...
+read value: 1
+current readers: 5
+reader 1 is reading data...
+read value: 1
+current readers: 5
+reader 2 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 0 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 4 is reading data...
+read value: 1
+current readers: 5
+reader 0 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 1 is reading data...
+read value: 1
+current readers: 5
+reader 4 is reading data...
+read value: 1
+current readers: 5
+reader 1 is reading data...
+read value: 1
+current readers: 5
+reader 2 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 2 is reading data...
+read value: 1
+current readers: 5
+reader 0 is reading data...
+read value: 1
+current readers: 5
+reader 2 is reading data...
+read value: 1
+current readers: 5
+reader 4 is reading data...
+read value: 1
+current readers: 5
+reader 0 is reading data...
+read value: 1
+current readers: 5
+reader 1 is reading data...
+read value: 1
+current readers: 5
+reader 1 is reading data...
+read value: 1
+current readers: 5
+reader 2 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 1 is reading data...
+read value: 1
+current readers: 5
+reader 0 is reading data...
+read value: 1
+current readers: 5
+reader 1 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 4 is reading data...
+read value: 1
+current readers: 5
+reader 4 is reading data...
+read value: 1
+current readers: 5
+reader 0 is reading data...
+read value: 1
+current readers: 5
+reader 2 is reading data...
+read value: 1
+current readers: 5
+reader 2 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 4 is reading data...
+read value: 1
+current readers: 5
+reader 1 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 0 is reading data...
+read value: 1
+current readers: 5
+reader 4 is reading data...
+read value: 1
+current readers: 5
+reader 2 is reading data...
+read value: 1
+current readers: 5
+reader 0 is reading data...
+read value: 1
+current readers: 5
+reader 1 is reading data...
+read value: 1
+current readers: 5
+reader 1 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 2 is reading data...
+read value: 1
+current readers: 5
+reader 2 is reading data...
+read value: 1
+current readers: 5
+reader 4 is reading data...
+read value: 1
+current readers: 5
+reader 0 is reading data...
+read value: 1
+current readers: 5
+reader 0 is reading data...
+read value: 1
+current readers: 5
+reader 2 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 0 is reading data...
+read value: 1
+current readers: 5
+reader 1 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 2 is reading data...
+read value: 1
+current readers: 5
+reader 0 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 4 is reading data...
+read value: 1
+current readers: 5
+reader 2 is reading data...
+read value: 1
+current readers: 5
+reader 2 is reading data...
+read value: 1
+current readers: 5
+reader 0 is reading data...
+read value: 1
+current readers: 5
+reader 1 is reading data...
+read value: 1
+current readers: 5
+reader 0 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 1 is reading data...
+read value: 1
+current readers: 5
+reader 4 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 2 is reading data...
+read value: 1
+current readers: 5
+reader 4 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 0 is reading data...
+read value: 1
+current readers: 5
+reader 1 is reading data...
+read value: 1
+current readers: 5
+reader 4 is reading data...
+read value: 1
+current readers: 5
+reader 2 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 2 is reading data...
+read value: 1
+current readers: 5
+reader 4 is reading data...
+read value: 1
+current readers: 5
+reader 0 is reading data...
+read value: 1
+current readers: 5
+reader 3 is reading data...
+read value: 1
+current readers: 5
+reader 3 quiting
+reader 1 is reading data...
+read value: 1
+current readers: 4
+reader 1 is reading data...
+read value: 1
+current readers: 4
+reader 2 is reading data...
+read value: 1
+current readers: 4
+reader 0 is reading data...
+read value: 1
+current readers: 4
+reader 4 is reading data...
+read value: 1
+current readers: 4
+reader 2 is reading data...
+read value: 1
+current readers: 4
+reader 2 quiting
+reader 1 is reading data...
+read value: 1
+current readers: 3
+reader 1 is reading data...
+read value: 1
+current readers: 3
+reader 4 is reading data...
+read value: 1
+current readers: 3
+reader 0 is reading data...
+read value: 1
+current readers: 3
+reader 1 is reading data...
+read value: 1
+current readers: 3
+reader 4 is reading data...
+read value: 1
+current readers: 3
+reader 1 is reading data...
+read value: 1
+current readers: 3
+reader 1 quiting
+reader 0 is reading data...
+read value: 1
+current readers: 2
+reader 0 quiting
+reader 4 is reading data...
+read value: 1
+current readers: 1
+reader 4 is reading data...
+read value: 1
+current readers: 1
+reader 4 quiting
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 wrote a value
+current value 0
+current readers 0
+writer 0 quiting
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 wrote a value
+current value 1
+current readers 0
+writer 1 quiting
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 wrote a value
+current value 3
+current readers 0
+writer 3 quiting
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 wrote a value
+current value 2
+current readers 0
+writer 2 quiting
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 wrote a value
+current value 4
+current readers 0
+writer 4 quiting
