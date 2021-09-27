@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/pco2699/ghq/github.com/pco2699/introduction-to-operating-systems/project1/problem1/build",
-  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -pthread -o CMakeFiles/problem1.dir/main.c.o   -c /home/pco2699/ghq/github.com/pco2699/introduction-to-operating-systems/project1/problem1/main.c",
-  "file": "/home/pco2699/ghq/github.com/pco2699/introduction-to-operating-systems/project1/problem1/main.c"
-}
-]
