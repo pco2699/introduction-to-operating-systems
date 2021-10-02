@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: /workspaces/introduction-to-operating-systems/project1/problem3
-BuildDirectory: /workspaces/introduction-to-operating-systems/project1/problem3/build
+SourceDirectory: /workspaces/introduction-to-operating-systems/project1/echo
+BuildDirectory: /workspaces/introduction-to-operating-systems/project1/echo/build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -14,7 +14,7 @@ CostDataFile:
 Site: codespaces_317cf3
 
 # Build name is osname-revision-compiler, i.e. Linux-2.4.2-2smp-c++
-BuildName: Linux-cc
+BuildName: Linux-x86_64-linux-gnu-g++-9
 
 # Subprojects
 LabelsForSubprojects: 
@@ -26,7 +26,7 @@ SubmitURL: http://
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/usr/bin/cmake" "/workspaces/introduction-to-operating-systems/project1/problem3"
+ConfigureCommand: "/usr/bin/cmake" "/workspaces/introduction-to-operating-systems/project1/echo"
 MakeCommand: /usr/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}" -- -i
 DefaultCTestConfigurationType: Release
 
@@ -62,7 +62,7 @@ UpdateOptions:
 UpdateType: 
 
 # Compiler info
-Compiler: 
+Compiler: /bin/x86_64-linux-gnu-g++-9
 CompilerVersion: 
 
 # Dynamic analysis (MemCheck)
